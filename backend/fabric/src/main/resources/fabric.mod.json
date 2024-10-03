@@ -23,7 +23,7 @@
     "fabricloader": ">=0.15.11",
     "fabric": ">=0.100.0",
     "java": ">=21",
-    "minecraft": ">=1.21"
+    "minecraft": ">=1.20.5 <1.21"
   },
   "mixins": [
     "signedvelocity.mixins.json"
